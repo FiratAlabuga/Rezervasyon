@@ -1,0 +1,11 @@
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\bin\Debug\netcoreapp3.1\Maas.exe
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\bin\Debug\netcoreapp3.1\Maas.deps.json
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\bin\Debug\netcoreapp3.1\Maas.runtimeconfig.json
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\bin\Debug\netcoreapp3.1\Maas.runtimeconfig.dev.json
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\bin\Debug\netcoreapp3.1\Maas.dll
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\bin\Debug\netcoreapp3.1\Maas.pdb
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\obj\Debug\netcoreapp3.1\Maas.csprojAssemblyReference.cache
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\obj\Debug\netcoreapp3.1\Maas.AssemblyInfoInputs.cache
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\obj\Debug\netcoreapp3.1\Maas.AssemblyInfo.cs
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\obj\Debug\netcoreapp3.1\Maas.dll
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\obj\Debug\netcoreapp3.1\Maas.pdb

@@ -1,0 +1,11 @@
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\bin\Debug\netcoreapp3.1\Rezervasyon.exe
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\bin\Debug\netcoreapp3.1\Rezervasyon.deps.json
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\bin\Debug\netcoreapp3.1\Rezervasyon.runtimeconfig.json
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\bin\Debug\netcoreapp3.1\Rezervasyon.runtimeconfig.dev.json
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\bin\Debug\netcoreapp3.1\Rezervasyon.dll
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\bin\Debug\netcoreapp3.1\Rezervasyon.pdb
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\obj\Debug\netcoreapp3.1\Rezervasyon.csprojAssemblyReference.cache
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\obj\Debug\netcoreapp3.1\Rezervasyon.AssemblyInfoInputs.cache
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\obj\Debug\netcoreapp3.1\Rezervasyon.AssemblyInfo.cs
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\obj\Debug\netcoreapp3.1\Rezervasyon.dll
+C:\Users\jfa76\source\repos\Rezervasyon\Rezervasyon\obj\Debug\netcoreapp3.1\Rezervasyon.pdb
